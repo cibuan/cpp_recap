@@ -79,4 +79,4 @@ template <class PairType>
 void Print(const PairType & pair)
 {
 	std::cout << '(' << pair.first << ',' << pair.second << ')' << std::endl;
-}; #pragma once
+};

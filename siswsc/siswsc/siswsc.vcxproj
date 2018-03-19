@@ -147,6 +147,9 @@
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="templates_first.h" />
+    <ClInclude Include="templates_second.h" />
+    <ClInclude Include="templates_third.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="siswsc.cpp" />

@@ -24,6 +24,15 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="templates_first.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="templates_second.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="templates_third.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
